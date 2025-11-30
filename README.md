@@ -60,7 +60,3 @@ When I'm not coding, you can find me:
 - 💼 **LinkedIn**: [Maximillian Fong](https://www.linkedin.com/in/maximillian-fong/)
 - 💻 **GitHub**: [sham-bolic](https://github.com/sham-bolic)
 - 🏆 **Devpost**: [Maximillian Fong](https://devpost.com/sham-bolic)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sham-bolic&show_icons=true&theme=radical" alt="Maximillian's GitHub Stats" />
-</p>
