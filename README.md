@@ -1,4 +1,4 @@
-# Hi there, I'm Maximillian Fong! 👋
+# Hi there, I'm Max! 👋
 
 **B.Sc. Honors Computer Science • Minor in Statistics @ McGill University**
 
