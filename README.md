@@ -8,7 +8,7 @@ Driven by a passion for Artificial Intelligence, I am a final-year Honors Comput
 
 ## 💼 Experience
 
-- **Growth Engineer Intern @ Botpress** (Sep 2025 - Present)
+- **Growth Engineer Intern @ Botpress** (Sep 2025 - Dec 2025)
 
   - Enhancing open-source integrations (SharePoint, MailerLite, Persat) with new features and improved stability.
   - Developing a bot-building agent to improve user onboarding and retention.
