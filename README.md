@@ -35,4 +35,4 @@ TypeScript, Python, React/Next.js, Node, PostgreSQL, Prisma, Docker
 
 ### Links
 
-[Portfolio](https://sham-bolic.github.io/) · [LinkedIn](https://www.linkedin.com/in/maximillian-fong/)
+[Portfolio](https://maximillianfong.com/) · [LinkedIn](https://www.linkedin.com/in/maximillian-fong/)
