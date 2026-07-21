@@ -19,13 +19,19 @@ and ChromaDB. Self-hosted vLLM to cut latency and API cost.
 
 ### Projects
 
-- **Rainbow DQN** — reimplemented from scratch in PyTorch; 60% faster convergence on Seaquest.
-- **BetterCV** — full-stack app that tailors CVs to job descriptions. Next.js, Postgres, Gemini.
+- **[personal-finance](https://github.com/sham-bolic/personal-finance)** — AI-first finance app.
+  Plaid cursor-based sync into Postgres, encrypted access tokens, RLS on every table, and a
+  tool-calling assistant that reads and acts on your own transaction data. Next.js, Prisma, Supabase.
+- **[vim-survivor](https://github.com/sham-bolic/vim-survivor)** — survival game where Vim motions
+  are the combat mechanic. Diffs your buffer against a target live and surfaces the next edit to make.
+  Next.js, CodeMirror.
+- **[Rainbow DQN](https://github.com/Waterfountain10/NotSoGood_RainbowDQN)** — reimplemented from
+  scratch in PyTorch; 60% faster convergence on Seaquest.
 - **Turing Poker Bot** — real-time EV calculation and adaptive opponent modeling.
 
 ### Stack
 
-TypeScript, Python, React/Next.js, Node, PostgreSQL
+TypeScript, Python, React/Next.js, Node, PostgreSQL, Prisma, Docker
 
 ### Links
 
